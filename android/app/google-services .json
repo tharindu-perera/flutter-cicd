@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484128186873",
+    "firebase_url": "https://moment-273714.firebaseio.com",
+    "project_id": "secure-moment-273714",
+    "storage_bucket": "secure-moment-273714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484128186873:android:5f57838cecfdeed3539d28",
+        "android_client_info": {
+          "package_name": "com.example.random_quote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484128186873-dmgj7l53ucdhn8mo3frgmr6lsrb5b7i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMT-OCjDmjBZGxuN-rl3sxxYvUxSBv9fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484128186873-dmgj7l53ucdhn8mo3frgmr6lsrb5b7i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
